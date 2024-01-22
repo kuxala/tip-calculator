@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-[Live Here](https://tip-calculator-vert-xi.vercel.app/)
+<span style="font-size:larger;">[Live Here](https://tip-calculator-vert-xi.vercel.app/)</span>
 
 
 ### `npm start`
